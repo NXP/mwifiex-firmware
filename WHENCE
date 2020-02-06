@@ -771,6 +771,9 @@ Version: W16.68.1.p179
 File: mrvl/sdsd8977_combo_v2.bin
 Version: W16.68.1.p195
 
+File: nxp/sd8801_uapsta.bin
+Version: W14.76.36.p139
+
 Licence: Redistributable. See LICENCE.NXP for details.  Originates from
 https://github.com/NXP/mwifiex-firmware.git
 
